@@ -27,4 +27,4 @@ Verifica se o login é bem-sucedido quando inseridos valores corretos de nome de
 Verifica se o login falha quando inseridos valores incorretos de nome de usuário e senha.
 
 ## `Javadoc` 
-Foi criada a documentação Javadoc para a classe LoginScreen. Para visualizá-la  selecione o arquivo localizado em doc/allclasses-index.html
+Foi criada a documentação Javadoc para a classe LoginScreen. Para visualizá-la  selecione o arquivo localizado em src/doc/allclasses-index.html
